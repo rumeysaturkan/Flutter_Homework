@@ -1,4 +1,4 @@
-# self_manage_hw
+# Self Manage
 
 A new Flutter application.
 
